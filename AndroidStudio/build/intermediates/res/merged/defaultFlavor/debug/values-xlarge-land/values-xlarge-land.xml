@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge-land/values-xlarge-land.xml -->
+    <eat-comment/>
+    <dimen name="abc_search_view_text_min_width">256dip</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-xlarge-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="example_group_list_item_badge_left_margin">114dp</dimen>
+    <dimen name="example_group_list_item_size">132dp</dimen>
+    <dimen name="example_list_left_margin">130dp</dimen>
+    <dimen name="example_list_right_margin">130dp</dimen>
+    <dimen name="pie_margin">40dp</dimen>
+    <integer name="example_list_fragment_columns">2</integer>
+    <integer name="example_list_fragment_columns_wrap">4</integer>
+</resources>

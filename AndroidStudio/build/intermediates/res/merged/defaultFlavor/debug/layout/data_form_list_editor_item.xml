@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheckedTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="12dp"
+    android:background="@drawable/data_form_list_item_states"
+    android:gravity="center_vertical"/><!-- From: file:/C:/_J/jobs/Android_2016q2_Upload/workspace/Input/src/main/res/layout/data_form_list_editor_item.xml --><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/Input-2016.2.504-trial-release/res/layout/data_form_list_editor_item.xml -->

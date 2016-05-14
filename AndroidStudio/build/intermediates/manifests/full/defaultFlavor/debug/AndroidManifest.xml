@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.telerik.examples"
+    android:versionCode="12"
+    android:versionName="2016.1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.telerik.examples.common.ExamplesApplicationContext"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/appName"
+        android:logo="@drawable/telerik_logo"
+        android:theme="@style/ApplicationTheme" >
+        <service android:name="com.google.android.gms.tagmanager.InstallReferrerService" />
+
+        <receiver
+            android:name="com.google.android.gms.tagmanager.InstallReferrerReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.telerik.examples.LoadingActivity"
+            android:noHistory="true"
+            android:theme="@style/BrandedActionBarTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.telerik.examples.MainActivity"
+            android:launchMode="singleTop"
+            android:theme="@style/BrandedActionBarTheme" >
+        </activity>
+        <activity
+            android:name="com.telerik.examples.ExampleGroupActivity"
+            android:theme="@style/ExampleGroupDarkTheme" />
+        <activity
+            android:name="com.telerik.examples.ExampleInfoActivity"
+            android:theme="@style/BrandedActionBarTheme" />
+        <activity
+            android:name="com.telerik.examples.ExampleActivity"
+            android:windowSoftInputMode="stateUnspecified|adjustNothing" />
+        <activity
+            android:name="com.telerik.examples.ViewCodeActivity"
+            android:label="@string/title_activity_view_code"
+            android:theme="@style/BrandedActionBarTheme" />
+        <activity
+            android:name="com.telerik.examples.SettingsActivity"
+            android:label="@string/title_activity_settings"
+            android:theme="@style/BrandedActionBarTheme" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.telerik.widget.feedback.SendFeedbackActivity"
+            android:label="@string/title_activity_send_feedback"
+            android:theme="@style/AppCompatTheme" >
+        </activity>
+        <activity
+            android:name="com.telerik.widget.feedback.ViewFeedbackActivity"
+            android:label="@string/title_activity_view_feedback"
+            android:theme="@style/AppCompatTheme" >
+        </activity>
+        <activity
+            android:name="com.telerik.widget.feedback.ViewFeedbackItemActivity"
+            android:label="@string/title_activity_view_feedback"
+            android:theme="@style/AppCompatTheme" >
+        </activity>
+        <activity
+            android:name="com.telerik.widget.feedback.EditDetailsActivity"
+            android:label="@string/title_activity_edit_details"
+            android:theme="@style/AppCompatTheme" >
+        </activity>
+    </application>
+
+</manifest>

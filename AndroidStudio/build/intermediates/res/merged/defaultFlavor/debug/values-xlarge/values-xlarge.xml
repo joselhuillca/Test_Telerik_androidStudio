@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge/values-xlarge.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_expanded_action_views_exclusive">false</bool>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">70%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">45%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="abc_search_view_text_min_width">192dip</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-xlarge/dimens.xml -->
+    <eat-comment/>
+    <dimen name="example_group_bar_tabs_font_size">15sp</dimen>
+    <dimen name="example_group_list_item_badge_left_margin">164dp</dimen>
+    <dimen name="example_group_list_item_size">182dp</dimen>
+    <dimen name="example_list_deck_recipe_category_size">14sp</dimen>
+    <dimen name="example_list_deck_recipe_padding">12dp</dimen>
+    <dimen name="example_list_deck_recipe_title_size">22sp</dimen>
+    <dimen name="example_list_item_fontsize">18sp</dimen>
+    <dimen name="example_list_item_text_margin_bottom">16dp</dimen>
+    <dimen name="example_list_item_text_margin_left">20dp</dimen>
+    <dimen name="example_list_item_text_margin_right">20dp</dimen>
+    <dimen name="example_list_item_title_fontsize">27sp</dimen>
+    <dimen name="example_list_spacing">24dp</dimen>
+    <dimen name="example_list_wrap_item_title_fontsize">20sp</dimen>
+    <dimen name="pie_margin">50dp</dimen>
+    <dimen name="tips_font_size">20sp</dimen>
+    <dimen name="tips_title_font_size">32sp</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge/values-xlarge.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">5</integer>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-xlarge/dimens.xml -->
+    <eat-comment/>
+    <integer name="example_list_fragment_columns">1</integer>
+    <integer name="example_list_fragment_columns_wrap">3</integer>
+</resources>

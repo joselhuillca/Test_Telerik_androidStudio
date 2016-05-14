@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SeekBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/data_form_seekbar_editor"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="@dimen/data_form_editor_text_size"
+    android:orientation="vertical"/>
+<!-- From: file:/C:/_J/jobs/Android_2016q2_Upload/workspace/Input/src/main/res/layout/data_form_seek_bar_editor.xml -->

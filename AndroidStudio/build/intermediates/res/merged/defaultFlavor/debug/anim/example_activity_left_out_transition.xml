@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:interpolator="@android:anim/decelerate_interpolator"
+        android:fromXDelta="0" android:toXDelta="-100%p"
+        android:duration="@android:integer/config_shortAnimTime"/>
+</set><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/anim/example_activity_left_out_transition.xml -->

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true" android:state_enabled="true" android:color="@color/white"/>
+    <item android:color="@color/list_view_example_selection_menu_foreground" />
+</selector><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/color/list_view_selection_selectable_foreground.xml -->

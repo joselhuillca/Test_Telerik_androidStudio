@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-large/dimens.xml -->
+    <eat-comment/>
+    <bool name="example_annotations_show_menu_landscape">true</bool>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <dimen name="abc_config_prefDialogWidth">440dp</dimen>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">90%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">55%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">80%</item>
+    <dimen name="abc_search_view_text_min_width">192dip</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-large/dimens.xml -->
+    <eat-comment/>
+    <dimen name="example_group_list_item_badge_left_margin">116dp</dimen>
+    <dimen name="example_group_list_item_size">132dp</dimen>
+    <dimen name="example_list_deck_recipe_category_size">14sp</dimen>
+    <dimen name="example_list_deck_recipe_padding">12dp</dimen>
+    <dimen name="example_list_deck_recipe_title_size">22sp</dimen>
+    <dimen name="example_list_item_fontsize">16sp</dimen>
+    <dimen name="example_list_item_text_margin_bottom">16dp</dimen>
+    <dimen name="example_list_item_text_margin_top">10dp</dimen>
+    <dimen name="example_list_item_title_fontsize">25sp</dimen>
+    <dimen name="example_list_spacing">14dp</dimen>
+    <dimen name="example_list_wrap_item_title_fontsize">19sp</dimen>
+    <dimen name="list_view_slide_item_fab_margin">16dp</dimen>
+    <dimen name="pie_margin">40dp</dimen>
+    <dimen name="tips_font_size">18sp</dimen>
+    <dimen name="tips_title_font_size">30sp</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <integer name="abc_max_action_buttons">4</integer>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-large/dimens.xml -->
+    <eat-comment/>
+    <integer name="example_list_fragment_columns">1</integer>
+    <integer name="example_list_fragment_columns_wrap">3</integer>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-large/values-large.xml -->
+    <eat-comment/>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="Base.Theme.AppCompat.Dialog.FixedSize"/>
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="Base.Theme.AppCompat.Light.Dialog.FixedSize"/>
+</resources>

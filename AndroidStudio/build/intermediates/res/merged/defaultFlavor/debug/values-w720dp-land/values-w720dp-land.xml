@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-w720dp-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="data_form_list_width">400dp</dimen>
+</resources>

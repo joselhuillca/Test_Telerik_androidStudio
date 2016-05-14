@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="0dp"
+    android:singleLine="true"
+    android:ellipsize="marquee"
+    style="?android:attr/spinnerItemStyle"/><!-- From: file:/C:/_J/jobs/Android_2016q2_Upload/workspace/Input/src/main/res/layout/data_form_spinner_item.xml --><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/Input-2016.2.504-trial-release/res/layout/data_form_spinner_item.xml -->

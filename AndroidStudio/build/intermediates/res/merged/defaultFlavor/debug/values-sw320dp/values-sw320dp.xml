@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/Input-2016.2.504-trial-release/res/values-sw320dp/values-sw320dp.xml -->
+    <eat-comment/>
+    <dimen name="date_text_size_year_mode">7sp</dimen>
+</resources>

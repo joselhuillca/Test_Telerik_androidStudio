@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\macmini\AppData\Local\Android\android-sdk\build-tools\21.1.2\renderscript\lib\renderscript-v8.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b276904cd854be6d460f2bcec9cf2cddaf580c1">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\renderscript-v8-e9d3ae5fd434de111ec626422a8fd33278a11371.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\libs\java2html.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bd7e81c677833cda822ecfc8f7fbde4ccb28424d">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\java2html-73ab6383bc02561a8cbfad74909b2a73f024fc6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c52b6f76d1afe959a9b6651ae61d2b0d158f8c9">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-f9244f60349171956ec795ba59d79462c79b9f62.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Chart-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="260f386f1838fdfdad2bb02ba4b3956254ff1fd0">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-5521ebb19398631b41cd914b8c3667836061a326.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Data-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="52bc80765ffc43ca7d180697b0b095d8cb540c9b">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-bbc54ece7d09586869a9b928ebad1763d78f99ef.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Common-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="47f693d4e1f063b477b689807fbaa17e07eae015">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-63d7487ac65973c2defcd72796c3bfa6d34992c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6c828a82efd4d7b389ea45dcc883f38ba053263d">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-f5ec9bbf37289a01fc3d5bd2372a1eba2568ce96.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aafdd2ccb8b4a3bfecb83127f189cbbb4f864a73">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-1e3cd724818c01e75ad6110e2fe7092b4df67559.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Primitives-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c3301f74bdb0dcfec3df7d5d41189616f768f458">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-78830444558a986d4bd552bbcf643ae1cdf1ce24.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-1a02ff84652b64739a5001b0e58b5bffc4bca9a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Feedback-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3e4a7ef38b426ea8cb63841b581ac7183ab19fd">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-7bae6e9702369ff61d36bbe957c477f10080f476.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\List-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="80718ee00877bf217b790c2a28fb2220c4a7798a">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-6e23bfa3172eee229d283ce94447819607a70ed2.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\bolts-android-1.1.4-39d43cf288c1eacf187dd926f0d15e4bb467e60a.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\internal_impl-23.1.1-3a3d466f7dfa26fe8ed70f6863dff56db31df43b.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-040f6897d2cf58a35a8316b41cfa090b7d0c163c.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edcb1bb563fa950dfa638b8efd10398088ceaccc">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-2a57d964d08ee7731b17439fb212b354359b5760.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\libs\flickrj-android-2.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="08ff4a341260f9f438456d990396589d51a61e36">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\flickrj-android-2.1.0-1764359a8e4f6c2537165b973f467d59c7469ce0.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\Input-2016.2.504-trial-release\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a89259a89d72c42300fafc3297088a104f3103a4">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-4fdd5b0afbd6edd13a5f77dc0dd37f6f16ea8f0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\libs\slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2b8019b6249bb05d81d3a3094e468753e2b21311">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\slf4j-api-1.7.7-e405da6aeb816020428c1cb220643d351e8941a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\library-2.4.0-391aaf639de526ffb2e4d384452bec7b384ca29f.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-6c689043f88db7f984b0ea452307357b3d7a1e18.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-99eaa50b2851945b96f172672bb33bab12799bab.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-d685a85e5f44ae6b5cda2f0329714cfd44b86809.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\support-annotations-23.1.1-da1224e2d0d600eb9a1e41ea69c6b166fd90b8f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\macmini\Desktop\PeruCamping\Telerik\Examples\AndroidStudio\build\intermediates\pre-dexed\defaultFlavor\debug\classes-51c22d3481132f7ce5804da5bb8c8cc37eebf3ea.jar" />
+    </item>
+
+</items>

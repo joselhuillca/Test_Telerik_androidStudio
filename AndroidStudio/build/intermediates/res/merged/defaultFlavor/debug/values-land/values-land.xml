@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <bool name="abc_action_bar_embed_tabs_pre_jb">true</bool>
+    <bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/src/main/res/values-land/dimens.xml -->
+    <eat-comment/>
+    <dimen name="example_group_header_height">96dp</dimen>
+    <dimen name="example_list_deck_recipe_category_size">8sp</dimen>
+    <dimen name="example_list_deck_recipe_padding">8dp</dimen>
+    <dimen name="example_list_deck_recipe_title_size">8sp</dimen>
+    <dimen name="example_list_left_margin">16dp</dimen>
+    <dimen name="example_list_right_margin">82dp</dimen>
+    <dimen name="weather_data_button_padding_bottom">0dp</dimen>
+    <dimen name="weather_data_button_padding_right">4dp</dimen>
+    <integer name="example_list_fragment_columns">1</integer>
+    <integer name="example_list_fragment_columns_wrap">3</integer>
+    <!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-land/values-land.xml -->
+    <eat-comment/>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

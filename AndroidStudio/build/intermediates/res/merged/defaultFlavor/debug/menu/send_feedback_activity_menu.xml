@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:feedback="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/action_send"
+        android:title="@string/feedback_send_title"
+        android:icon="@drawable/ic_send"
+        feedback:showAsAction="always"/>
+</menu><!-- From: file:/C:/_J/jobs/Android_2016q2_Upload/workspace/Feedback/src/main/res/menu/send_feedback_activity_menu.xml --><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/Feedback-2016.2.504-trial-release/res/menu/send_feedback_activity_menu.xml -->

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Chart-2016.2.504-trial-release-">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/intermediates/exploded-aar/Chart-2016.2.504-trial-release/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/build/intermediates/exploded-aar/Chart-2016.2.504-trial-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

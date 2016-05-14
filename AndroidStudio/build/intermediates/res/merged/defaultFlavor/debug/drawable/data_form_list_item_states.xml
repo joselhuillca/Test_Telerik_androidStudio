@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/data_form_list_selected" android:state_checked="true"/>
+</selector><!-- From: file:/C:/_J/jobs/Android_2016q2_Upload/workspace/Input/src/main/res/drawable/data_form_list_item_states.xml --><!-- From: file:/C:/Users/macmini/Desktop/PeruCamping/Telerik/Examples/AndroidStudio/build/intermediates/exploded-aar/Input-2016.2.504-trial-release/res/drawable/data_form_list_item_states.xml -->
